@@ -1,0 +1,16 @@
+{
+  "name": "jons-merch-shop-bot",
+  "version": "1.0.0",
+  "description": "Discord merch shop bot for Jon's Merch Shop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.24.2",
+    "dotenv": "^16.6.1"
+  }
+}
